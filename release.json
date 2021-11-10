@@ -1,0 +1,46 @@
+{
+	"major_release": "OS X Server 2",
+	"release": "OS X Server 2.2.2",
+	"projects": [
+		{
+			"project": "ChatServer",
+			"tag": "ChatServer-399"
+		},
+		{
+			"project": "PostgreSQL",
+			"tag": "PostgreSQL-81.2"
+		},
+		{
+			"project": "SpamAssassin",
+			"tag": "SpamAssassin-164"
+		},
+		{
+			"project": "amavisd",
+			"tag": "amavisd-136"
+		},
+		{
+			"project": "apache_mod_bonjour",
+			"tag": "apache_mod_bonjour-20"
+		},
+		{
+			"project": "apache_mod_bw",
+			"tag": "apache_mod_bw-203"
+		},
+		{
+			"project": "apache_mod_encoding2",
+			"tag": "apache_mod_encoding2-206"
+		},
+		{
+			"project": "apache_mod_jk",
+			"tag": "apache_mod_jk-206"
+		},
+		{
+			"project": "clamav",
+			"tag": "clamav-151.1"
+		},
+		{
+			"project": "dovecot",
+			"tag": "dovecot-279"
+		}
+	]
+}
