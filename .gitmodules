@@ -19,12 +19,15 @@
 [submodule "apache_mod_encoding2"]
 	path = apache_mod_encoding2
 	url = https://github.com/apple-oss-distributions/apache_mod_encoding2
-[submodule "apache_mod_jk"]
-	path = apache_mod_jk
-	url = https://github.com/apple-oss-distributions/apache_mod_jk
 [submodule "clamav"]
 	path = clamav
 	url = https://github.com/apple-oss-distributions/clamav
 [submodule "dovecot"]
 	path = dovecot
 	url = https://github.com/apple-oss-distributions/dovecot
+[submodule "HTTPServer"]
+	path = HTTPServer
+	url = https://github.com/apple-oss-distributions/HTTPServer
+[submodule "freeradius"]
+	path = freeradius
+	url = https://github.com/apple-oss-distributions/freeradius
